@@ -174,4 +174,10 @@ public class GameHandler {
         }
         return ans;
     }
+    
+    public static void main(String[] args) {
+        GameHandler game = new GameHandler();
+
+    }
+    
 }
